@@ -1,3 +1,6 @@
+# 1. Anagram Tester
+Please see [anagram.php](anagram.php) for the source code
+
 # 2. Knowledge base
 
 ## 2.1 SQL Injections   
